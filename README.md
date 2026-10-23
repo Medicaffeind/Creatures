@@ -89,8 +89,15 @@ Example setup:
 ```
 
 ## Races and abilities
-
-The following races have ability modules in this copy:
-
-| Race IDs | Example abilities |
 | --- | --- |
+| `malevampire`, `femalevampire` | Blood Dash, Mist Form, Feed |
+| `maledragonkin`, `femaledragonkin` | Fire Breath, Gust |
+| `maleursar`, `femaleursar` | Hibernate, Maul, Roar |
+| `maledwarf`, `femaledwarf` | Heavy Strider, Mountain Soul, Liquid Courage |
+| `demon` | Veil, Dissipate, Suppression |
+| `fae` | Glamour, Mischief, Fairy Dust |
+| `elf` | Agility, Healing Rain, Root |
+| `witch`, `warlock` | Aetherium Shield, Aetherium Bolt, Concussive Blast |
+
+Additional configuration entries exist for `malewerewolf`, `femalewerewolf`, `angel`, `satyr`, `kitsune`, `mermaid`, `orc`, and `lunarowl`. These do not have matching ability modules in this copy. A configured race does not necessarily have a complete ability set or usable form models.
+
