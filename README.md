@@ -1,8 +1,8 @@
 # SNS Creatures
 
-A supernatural race, transformation, and ability system for **FiveM / Qbox**, created for Streets & Sorcery.
+A supernatural race, transformation, and ability system for **FiveM / Qbox**
 
-Assign creature races, customize alternate forms, manage six progression tiers, and use race-specific abilities powered by Aetherium.
+Assign creature races, customize alternate forms, manage six progression tiers, and use race-specific abilities powered by Mana
 
 ## Features
 
