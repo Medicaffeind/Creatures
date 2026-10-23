@@ -1,4 +1,4 @@
-# SNS Creatures
+# Creatures
 
 A supernatural race, transformation, and ability system for **FiveM / Qbox**
 
